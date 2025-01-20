@@ -1,6 +1,6 @@
 
 # PyManga
-Simple Manga Downloader.
+Python Manga Downloader With Language Support.
 
 ## Example Of Usage
 
