@@ -1,0 +1,2 @@
+# PyManga
+Simple Manga Downloader.
