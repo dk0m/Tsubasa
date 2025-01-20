@@ -14,7 +14,9 @@ $ python main.py --translation en --query "Solo leveling" --output "./Solo Level
 [4] Solo Leveling - The revenge of sung jin-woo (Doujinshi)
 [5] Solo Leveling - sung jin-woo!   Linear (Doujinshi)
 [6] Solo Leveling (Book Version)
+
 [?] Choose Manga To Download » 0
+
 [+] Found 36 Chapters In Vol
 [*] Downloading Chapter 36
 [+] Found 74 Images In Chapter 3
