@@ -5,7 +5,7 @@ Simple Manga Downloader.
 ## Example Of Usage
 
 ```
-python main.py --translation en --query "Solo leveling" --output "./Solo Leveling (En)"
+$ python main.py --translation en --query "Solo leveling" --output "./Solo Leveling (En)"
 
 [0] Solo Leveling: Ragnarok
 [1] Solo Leveling
