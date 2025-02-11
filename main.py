@@ -70,4 +70,3 @@ for volIndex in volsData:
 
                 with open(f'{dirPath}/{imgIndex}.jpg', 'wb') as chapterImg:
                     chapterImg.write(r.content)
-                    chapterImg.close()
