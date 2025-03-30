@@ -1,5 +1,5 @@
 
-# PyManga
+# Tsubasa
 Python Manga Downloader With Language Support.
 
 ## Example Of Usage
